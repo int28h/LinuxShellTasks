@@ -9,4 +9,5 @@
 [05](src/hackerrank/bash/05_the_world_of_numbers.sh) The World of Numbers  
 [06](src/hackerrank/bash/06_comparing_numbers.sh) Comparing numbers  
 [07](src/hackerrank/bash/07_getting_started_with_conditionals.sh) Getting started with conditionals  
+[08](src/hackerrank/bash/More on Conditionals) More on Conditionals  
   
