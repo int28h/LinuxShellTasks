@@ -7,4 +7,5 @@
 [03](src/hackerrank/bash/03_a_personalized_echo.sh) A Personalized Echo  
 [04](src/hackerrank/bash/04_looping_with_numbers.sh) Looping with Numbers  
 [05](src/hackerrank/bash/05_the_world_of_numbers.sh) The World of Numbers  
+[06](src/hackerrank/bash/06_comparing_numbers.sh) Comparing numbers  
   
